@@ -93,8 +93,7 @@ while (1)
 ![uyfgfhjgjkk](https://user-images.githubusercontent.com/121412904/235107047-6435959a-a9ee-4459-9f4c-e6031fc46322.png)
 
 
-## Proteus layout(Add pdf screen shot of circuit here)
- 
+
  
  
  
